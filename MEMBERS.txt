@@ -1,0 +1,5 @@
+Members: Justin Weiner, Max Lankford, Marco Barragan
+
+We all got together for the majority of this project and collaborated on each part. Our group was focused on a team-
+programming style. One of us was in the drivers seat at a time while others helped. In the end, we all cleaned up the
+code, and all helped debug.

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/BigUnsigned.h
+NumberlikeArray.h
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/NumberlikeArray.h
+
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/BigUnsignedInABase.h
+NumberlikeArray.h
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/NumberlikeArray.h
+BigUnsigned.h
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/BigUnsigned.h
+string
+-
+
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/NumberlikeArray.h
+
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+algorithm
+-
+cassert
+-
+queue
+-
+unordered_map
+-
+utility
+-
+tuple
+-
+vector
+-
+BigUnsignedInABase.h
+/Users/justinweiner/Desktop/CS454/Proj1_CS454_Weiner_Lankford_Barragan/BigUnsignedInABase.h
+
